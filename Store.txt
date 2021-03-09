@@ -1,0 +1,14 @@
+Groceries Banana 10 0.98
+Groceries Apple 98 1.72
+Groceries Potatoe 24 1.12
+Groceries Milk 27 4.32
+Groceries OJ 56 2.3
+Health Toothpaste 6 2.8
+Health Deoderant 4 7.98
+Clothes Shirt 29 17.99
+Clothes Socks 89 4.99
+Clothes Pants 2 29.99
+
+admin zamsler password
+employee zachamsler 123456
+customer zam qwerty
